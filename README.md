@@ -1,1 +1,1 @@
-# yogavidya-website
+index.html
